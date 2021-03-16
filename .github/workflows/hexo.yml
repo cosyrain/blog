@@ -8,7 +8,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: renzhaosy/hexo-deploy-action@master
+      uses: cosyrain/hexo-deploy-action@master
       env:
         PERSONAL_TOKEN: ${{ secrets.Hexo_Access_TOKEN }}
         PUBLISH_REPOSITORY: cosyrain/cosyrain.github.io # The repository the action should deploy to.
