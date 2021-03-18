@@ -5,7 +5,7 @@ keywords: null
 author: Cosy Rain
 language: zh-CN
 timezone: 'Asia/Shanghai'
-url: http://blog.co2oc.com
+url: http://cosyrain.github.io
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
