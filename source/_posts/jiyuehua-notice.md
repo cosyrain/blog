@@ -4,8 +4,6 @@ date: 2021-03-15 15:46:24
 categories:
 - 集约化平台
 toc: true
-cover: /gallery/covers/vector_landscape_2.svg
-thumbnail: /gallery/covers/vector_landscape_2.svg
 ---
 
 本篇文章总结了开普集约化平台的各类注意事项。

@@ -4,8 +4,6 @@ date: 2021-03-15 11:29:33
 categories: 
 - 集约化平台
 toc: true
-cover: /gallery/covers/vector_landscape_1.svg
-thumbnail: /gallery/covers/vector_landscape_1.svg
 ---
 
 本篇文章总结了开普集约化平台的常用标签。
