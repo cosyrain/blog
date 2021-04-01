@@ -63,5 +63,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: https://github.com/cosyrain/cosyrain.github.io.git
-  beanch: gh-pages
+  repo: git@github.com:cosyrain/cosyrain.github.io.git
+  beanch: master
