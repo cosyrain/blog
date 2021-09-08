@@ -80,3 +80,13 @@ toc: true
 ```html
 <CMSPRO_ROWNO>当前记录序号</CMSPRO_ROWNO>
 ```
+
+# 归档相关属性
+省平台可用，市平台未知
+例子可看交通厅“脱贫攻坚”专题：http://jtt.sc.gov.cn/jtt/c102634/tpgj.shtml
+```html
+栏目归档时间：<cmspro_channel field='archiveRevoke' DATEFORMAT="yyyy-MM-dd"></cmspro_channel>
+栏目归档属性：<cmspro_channel field='archiveSuport' ></cmspro_channel>
+稿件归档时间：<cmspro_document field="archivedTime " dateformat="yyyy-MM-dd"></cmspro_document>
+稿件归档属性：<cmspro_document field='isArchives'></cmspro_document>
+```
